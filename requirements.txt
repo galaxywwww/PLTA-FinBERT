@@ -1,0 +1,10 @@
+torch>=1.18.0
+transformers>=4.35.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.2
+scikit-learn>=1.2.0
+nltk>=3.8.1
+tqdm>=4.66.0
+finbert>=0.5.0
