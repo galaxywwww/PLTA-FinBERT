@@ -21,5 +21,3 @@ This repository contains the official implementation of PLTA-FinBERT, a test-tim
    ```bash
    git clone https://github.com/galaxywwww/PLTA-FinBERT.git
    cd PLTA-FinBERT
-
-## Current Status: Coming Soon
